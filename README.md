@@ -1,4 +1,4 @@
-﻿# ðŸ¥¶ Congelou
+# ðŸ¥¶ Congelou
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -8,7 +8,7 @@
 
 **ðŸ‡§ðŸ‡· [PortuguÃªs](README.md) Â· ðŸ‡ºðŸ‡¸ [English](README.en.md) Â· ðŸ‡ªðŸ‡¸ [EspaÃ±ol](README.es.md)**
 
-[![Congelou](guia/assets/banner.jpg)](https://inematds.github.io/congelou/guia/)
+[![Congelou](guia/assets/banner.jpg)](https://linnoff88-dev.github.io/
 
 Curta de **38s com efeito time freeze**, feito 100% pela **assinatura Kling AI** via CLI oficial `kling`:
 coloco um frango para assar, tomo um cafÃ©, abro o forno, o frango sai **vivo**, eu me assusto e **tudo congela**.
@@ -16,7 +16,7 @@ Quando o tempo volta, vem o estrago.
 
 ## ðŸ“– Guia de uso
 
-Guia completo (landing + passo a passo + como repetir com outro assunto): **https://inematds.github.io/congelou/guia/**
+Guia completo (landing + passo a passo + como repetir com outro assunto): **https://linnoff88-dev.github.io/
 
 ðŸŽ¬ VÃ­deos: [v1 original](guia/assets/congelou.mp4) Â· [v2 freeze total + paradas](guia/assets/congelou_v2.mp4) Â· [v3 gato no microondas (4K, 2 congelamentos)](guia/assets/microondas.mp4)
 
@@ -48,7 +48,7 @@ kling login
 Custo medido (plano Pro): 12 crÃ©ditos/s no Kling 3.0 1080p com Ã¡udio. O filme todo saiu por ~476 crÃ©ditos.
 
 ---
-[INEMA.CLUB](https://inema.club)
+[ARCKHÉ AI](https://ARCKHÉ AI)
 
 ---
 

@@ -1,15 +1,15 @@
-# 🎁 FREEZE EFFECT VIDEO PROMPT (template original)
+# ðŸŽ FREEZE EFFECT VIDEO PROMPT (template original)
 
-> Modelo de referência usado para escrever `prompts/C.txt` (o clipe do congelamento).
-> Mantenha o esqueleto ([SCENE] → [TIME FREEZE] → [FROZEN CAMERA] → [RESUME] → [CONTINUITY] → [RULES]) e troque o conteúdo pela sua cena.
+> Modelo de referÃªncia usado para escrever `prompts/C.txt` (o clipe do congelamento).
+> Mantenha o esqueleto ([SCENE] â†’ [TIME FREEZE] â†’ [FROZEN CAMERA] â†’ [RESUME] â†’ [CONTINUITY] â†’ [RULES]) e troque o conteÃºdo pela sua cena.
 
-## Image 1 — EXACT Reference FRAME
+## Image 1 â€” EXACT Reference FRAME
 
 Use Image 1 as the exact reference frame of the video, not merely as a character reference. Begin the video directly from this image without changing its composition, camera angle, framing, character position, scale, appearance, clothing, pose, objects, lighting, colors, background, or depth of field. Preserve every visible element exactly at the start, then continue the action naturally from this established frame.
 
 ## [SCENE]
 
-Daytime on a wide Manhattan sidewalk. New York atmosphere: pedestrians, storefronts, brick façades, traffic lights, yellow taxis, cyclists, reflections, and street steam.
+Daytime on a wide Manhattan sidewalk. New York atmosphere: pedestrians, storefronts, brick faÃ§ades, traffic lights, yellow taxis, cyclists, reflections, and street steam.
 
 The man matches Image 1. He wears a plain white oversized T-shirt, dark trousers, and black sneakers. No chain, jewelry, or accessories.
 
@@ -19,7 +19,7 @@ A young dark-haired woman approaches from the opposite direction in a neutral ja
 
 ## [STYLE]
 
-Ultra-realistic cinematic live-action. Natural skin and fabric, accurate motion, shallow depth of field, daylight bloom, handheld 35mm look.
+Ultra-realistic cARCKHÉtic live-action. Natural skin and fabric, accurate motion, shallow depth of field, daylight bloom, handheld 35mm look.
 
 ## [CAMERA]
 

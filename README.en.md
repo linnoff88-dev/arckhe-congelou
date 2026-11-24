@@ -1,23 +1,23 @@
-# 🥶 Congelou
+# ðŸ¥¶ Congelou
 
-**🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
+**ðŸ‡§ðŸ‡· [PortuguÃªs](README.md) Â· ðŸ‡ºðŸ‡¸ [English](README.en.md) Â· ðŸ‡ªðŸ‡¸ [EspaÃ±ol](README.es.md)**
 
-[![Congelou](guia/assets/banner.jpg)](https://inematds.github.io/congelou/guia/en/)
+[![Congelou](guia/assets/banner.jpg)](https://linnoff88-dev.github.io/
 
 A **38s short with a time-freeze effect**, made 100% with the author's **Kling AI subscription** through the official `kling` CLI:
 I put a chicken in the oven to roast, have a coffee, open the oven, the chicken comes out **alive**, I get scared and **everything freezes**.
 When time resumes, chaos follows.
 
-## 📖 User guide
+## ðŸ“– User guide
 
-Full guide (landing + step by step + how to repeat with another story): **https://inematds.github.io/congelou/guia/en/**
+Full guide (landing + step by step + how to repeat with another story): **https://linnoff88-dev.github.io/
 
-🎬 Videos: [v1 original](guia/assets/congelou.mp4) · [v2 total freeze + stops](guia/assets/congelou_v2.mp4) · [v3 cat in the microwave (4K, 2 freezes)](guia/assets/microondas.mp4)
+ðŸŽ¬ Videos: [v1 original](guia/assets/congelou.mp4) Â· [v2 total freeze + stops](guia/assets/congelou_v2.mp4) Â· [v3 cat in the microwave (4K, 2 freezes)](guia/assets/microondas.mp4)
 
 ## How it works
 
 ```
-face photo → keyframe k1 → clip A → last frame → clip B → clip C (freeze) → clip D → ffmpeg → final
+face photo â†’ keyframe k1 â†’ clip A â†’ last frame â†’ clip B â†’ clip C (freeze) â†’ clip D â†’ ffmpeg â†’ final
 ```
 
 | File | Role |
@@ -25,8 +25,8 @@ face photo → keyframe k1 → clip A → last frame → clip B → clip C (free
 | `keyframe.sh` | opening still with your face (Nano Banana Pro inside Kling) |
 | `clip.sh` | one Kling 3.0 clip (1080p, native audio, single shot) + download + last frame |
 | `fetch.sh` | downloads the result, measures audio, builds a contact sheet and `keyframes/X_last.png` |
-| `montar.sh` | joins the clips, 1920×1080/24fps, loudnorm -14 LUFS |
-| `prompts/` | `k1.txt`, `A.txt`…`D.txt` and the template `freeze_effect_template_en.md` |
+| `montar.sh` | joins the clips, 1920Ã—1080/24fps, loudnorm -14 LUFS |
+| `prompts/` | `k1.txt`, `A.txt`â€¦`D.txt` and the template `freeze_effect_template_en.md` |
 | `LOG.md`, `job_ids.txt` | log of every generation and its cost |
 
 ```bash
@@ -42,4 +42,4 @@ kling login
 Measured cost (Pro plan): 12 credits/s for Kling 3.0 at 1080p with audio. The whole film took ~476 credits.
 
 ---
-[INEMA.CLUB](https://inema.club)
+[ARCKHÉ AI](https://ARCKHÉ AI)
