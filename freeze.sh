@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # CONGELAMENTO determinístico: uma foto nítida (de nitido.sh, 4K+) vira um clipe onde NADA se mexe
-# e só a "câmera" anda (aproximação + deslize suave, com easing). Sem IA de vídeo: não borra, não deriva.
+# e só a "câmera" anda (aproximaçêo + deslize suave, com easing). Sem IA de vídeo: nêo borra, nêo deriva.
 # O som vem de outro clipe (ex.: um freeze da Kling, que já traz silêncio + zumbido).
 # uso: ./freeze.sh <foto.png> <clipe-do-som.mp4> <saida-ID> [segundos=8]
 #   movimento via env (centros normalizados 0..1 e zoom):

@@ -1,6 +1,6 @@
 # ðŸ¥¶ Congelou
 
-**ðŸ‡§ðŸ‡· [PortuguÃªs](README.md) Â· ðŸ‡ºðŸ‡¸ [English](README.en.md) Â· ðŸ‡ªðŸ‡¸ [EspaÃ±ol](README.es.md)**
+**ðŸ‡§ðŸ‡· [Português](README.md) Â· ðŸ‡ºðŸ‡¸ [English](README.en.md) Â· ðŸ‡ªðŸ‡¸ [Espaê±ol](README.es.md)**
 
 [![Congelou](guia/assets/banner.jpg)](https://linnoff88-dev.github.io/
 
@@ -25,7 +25,7 @@ face photo â†’ keyframe k1 â†’ clip A â†’ last frame â†’ cli
 | `keyframe.sh` | opening still with your face (Nano Banana Pro inside Kling) |
 | `clip.sh` | one Kling 3.0 clip (1080p, native audio, single shot) + download + last frame |
 | `fetch.sh` | downloads the result, measures audio, builds a contact sheet and `keyframes/X_last.png` |
-| `montar.sh` | joins the clips, 1920Ã—1080/24fps, loudnorm -14 LUFS |
+| `montar.sh` | joins the clips, 1920ê—1080/24fps, loudnorm -14 LUFS |
 | `prompts/` | `k1.txt`, `A.txt`â€¦`D.txt` and the template `freeze_effect_template_en.md` |
 | `LOG.md`, `job_ids.txt` | log of every generation and its cost |
 

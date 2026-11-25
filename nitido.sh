@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Regenera um quadro (tipicamente o último de um clipe de ação, com motion blur) NÍTIDO,
-# mantendo a composição idêntica — vira o início perfeito de um clipe de congelamento.
+# Regenera um quadro (tipicamente o último de um clipe de açêo, com motion blur) NÍTIDO,
+# mantendo a composiçêo idêntica — vira o início perfeito de um clipe de congelamento.
 # Usa Nano Banana Pro dentro da assinatura Kling; a foto do rosto garante a identidade.
 # uso: [IMGRES=4k|2k] ./nitido.sh <quadro.png> <saida.png> [foto-rosto=ref/nei.jpg]
 set -euo pipefail

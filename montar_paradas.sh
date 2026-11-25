@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Montagem com PARADAS depois do freeze (sem câmera lenta, sem interpolação):
+# Montagem com PARADAS depois do freeze (sem câmera lenta, sem interpolaçêo):
 #   o clipe da retomada anda um pedaço em velocidade normal, TRAVA num quadro parado,
 #   anda de novo, trava... (N paradas, cada vez mais curtas) e segue natural.
 #   Nas paradas o som some; volta junto com o movimento.
